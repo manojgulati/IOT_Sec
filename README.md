@@ -1,2 +1,9 @@
 # IOT_Sec
-Working group on IOT Security started at IIT Kanpur
+
+05/07/19 - Working group on IOT Security started at IIT Kanpur
+
+Contributor :
+	Shivam
+	Shashwat
+	Manoj
+ 
